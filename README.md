@@ -16,5 +16,7 @@ jekyll serve --watch
 ##Contribuições
 Antes de enviar as modificações, certifique-se que elas estão funcionando no ambiente local.
 
+Para saber como contribuir acesse [CONTRIBUINDO.md]().
+
 ##Licença
 MIT © WiDS Recife

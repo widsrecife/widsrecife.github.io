@@ -1,22 +1,31 @@
-#Site Women in Data Science Recife (WiDS Recife)
+# Site Women in Data Science Recife (WiDS Recife)
 
 Repositório do site do grupo Women in Data Science Recife, que tem como objetivo de dar visibilidade a experiências profissionais e pesquisas de mulheres cientistas de dados locais através de uma conferência gratuita anual.
 
 [www.widsrecife.com.br](www.widsrecife.com.br)
 
-##Começando
+
+## Começando
 O site está usando o framework Jekyll, baseado em Ruby, então para iniciar é necessário ter Ruby no seu computador. Em seguida, execute:
 
-```
-git clone git@github.com:widsrecife/site-jekyll.git
-gem install jekyll
-jekyll serve --watch
-```
+1. Clone o repositório
+   
+`git clone git@github.com:widsrecife/site-jekyll.git`
 
-##Contribuições
+2. Instale o gem Jekyll
+
+`gem install jekyll`
+
+3. Rode o servidor local
+
+`jekyll serve --watch`
+
+
+## Contribuições
 Antes de enviar as modificações, certifique-se que elas estão funcionando no ambiente local.
 
 Para saber como contribuir acesse [CONTRIBUINDO.md]().
 
-##Licença
+
+## Licença
 MIT © WiDS Recife

@@ -1,0 +1,44 @@
+---
+---
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- for Google -->
+    <meta name="description" content="{{site.description}}"/>
+    <meta name="keywords" content="{{site.keywords}}"/>
+    <meta name="author" content="Ana Cecilia Vieira"/>
+    <meta name="theme-color" content="#fa0">
+    <meta name="copyright" content="WiDS Recife"/>
+    <meta name="application-name" content="{{site.title}}"/>
+
+    <!-- for Facebook -->
+    <meta property="og:title" content="{{site.title}}"/>
+    <meta property="og:image" content="{{site.ogimage}}"/>
+    <meta property="og:image:secure_url" content="{{site.ogimage}}">
+    <meta property="og:url" content="{{site.url}}"/>
+    <meta property="og:description" content="{{site.description}}"/>
+    
+    <!-- for Twitter -->
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:title" content="{{site.title}}"/>
+    <meta name="twitter:site" content="@widsrecife">
+    <meta name="twitter:creator" content="@widsrecife">
+    <meta name="twitter:description" content="{{site.description}}"/>
+    <meta name="twitter:image" content="{{site.ogimage}}"/>
+
+    <title>{%if page.title %}{{page.title}} | {%endif%}{{site.title}}</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bower_components/ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+
+
+</head>
+
+</html>

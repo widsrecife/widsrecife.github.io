@@ -18,21 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+original_repo: https://github.com/widsrecife/site-jekyll
+title: Women in Data Science Recife
+email: widsrecife@gmail.com
+attendees_form: 
+description: O WiDS Recife tem como objetivo de dar visibilidade a experiências profissionais e pesquisas de mulheres cientistas de dados locais através de uma conferência gratuita anual, cuja programação é composta apenas por palestrantes que se identificam com o gênero feminino. Tendo sido a 1. edição em 2017. 
+keywords: conferencia, ciencia de dados, mulheres, tecnologia, Recife, evento, WiDS Recife
+ogimage: "/assets/images/speakers/wids-2color-stacked.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "www.widsrecife.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: widsrecife
+github_username:  widsrecife
+
+sass:
+    sass_dir: assets/_scss
+    style: compressed
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# theme: minima
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

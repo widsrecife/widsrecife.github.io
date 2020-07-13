@@ -24,7 +24,7 @@ Seguem instruções para contribuir com o site.
 7. Envie um pull request para o nosso repositório
 
 ----
-## Modificando o header
+## Modificando o Header
 
 No header estão as informações gerais sobre o evento e o botão de inscrições, caso estejam abertas.
 Altere o arquivo "_data/conference _[ano]/header.yml" seguindo as orientações abaixo:
@@ -36,7 +36,13 @@ Altere o arquivo "_data/conference _[ano]/header.yml" seguindo as orientações 
   inscription-link: <coloque o link apenas no período em que as inscrições estão abertas>
 ```
 
-## Adicionando um novo evento
+## Modificando o About
+
+Essa é a sessão que fica logo abaixo da imagem principal da página, nela é descrito um breve resumo sobre o "Women in Data Science Recife", considerando as exigências mínimas indicadas no Guia de Uso da Marca.
+
+Altere o arquivo "_includes/conference _[ano]/about.html"
+
+## Adicionando Novo evento
 
 Essa sessão é dedicada aos eventos secundários realizados ao longo do ano, seja na modalidade presencial ou remota.
 No começo do arquivo "_data/other_events.yml", crie um novo bloco de conteúdo e adicione as informações conforme indicado abaixo:

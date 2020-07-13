@@ -614,7 +614,7 @@ ul li {
   }
 }
 @media (min-width: 992px) {
-  .schedule-box {
+  .schedule-box .otherevents-box{
     margin: 0;
   }
 

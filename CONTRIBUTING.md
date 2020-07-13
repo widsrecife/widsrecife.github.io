@@ -42,6 +42,21 @@ Essa é a sessão que fica logo abaixo da imagem principal da página, nela é d
 
 Altere o arquivo "_includes/conference _[ano]/about.html"
 
+## Modificando o Facts
+
+Visualização resumida dos dados do evento.
+Altere o arquivo "_data/conference _[ano]/facts.yml" seguindo as orientações abaixo:
+
+```
+- day: <dia> <mês abreviado>
+  year: "<ano>"
+  hour: "<horário de início>"
+  location: <nome do local>
+  location-link: <se presencial, link do Google Maps. Se remoto, link da plataforma de stream>
+  inscription-status: <status das inscrições: em breve, abertas, encerradas>
+  inscription-link: <link para inscrições>
+```
+
 ## Adicionando Novo evento
 
 Essa sessão é dedicada aos eventos secundários realizados ao longo do ano, seja na modalidade presencial ou remota.

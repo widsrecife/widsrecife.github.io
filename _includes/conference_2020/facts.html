@@ -1,0 +1,50 @@
+<section id="facts" class="section bg-image-1 facts text-center">
+    <div class="container">
+        <div class="row">
+
+        {% for item in site.data.conference_2020.facts %}
+
+            {% if item.day != "" and item.day != nil %}
+            <div class="col-sm-3">
+
+                <i class="ion-ios-calendar"></i>
+                <h3>{{ item.day }}<br>{{ item.year }}</h3>
+
+            </div>
+            {% endif %}
+
+            {% if item.hour != "" and item.hour != nil %}
+            <div class="col-sm-3">
+
+                <i class="ion-clock"></i>
+                <h3>{{item.hour}}</h3>
+
+            </div>
+            {% endif %}
+
+            {% if item.location != "" and item.location != nil %}
+            <div class="col-sm-3">
+
+                <a href="{{ item.location-link }}" target="__blank">
+                <i class="ion-ios-location"></i>
+                <h3>{{ item.location }}</h3>
+                </a>
+
+            </div>
+            {% endif %}
+
+            {% if item.inscription-status != "" and item.inscription-status != nil %}
+            <div class="col-sm-3">
+
+                <a href="{{ item.inscription-link }}" target="__blank">
+                <i class="ion-pricetags"></i>
+                <h3>Inscrições<br>{{ item.inscription-status }}</h3>
+                </a>
+
+            </div>
+            {% endif %}
+
+        {% endfor %}
+        </div>
+    </div>
+</section>

@@ -24,6 +24,16 @@ Seguem instruções para contribuir com o site.
 7. Envie um pull request para o nosso repositório
 
 ----
+## Modificando o header
+
+No header estão as informações gerais sobre o evento e o botão de inscrições, caso estejam abertas.
+Altere o arquivo "_data/conference_<ano>/header.yml" seguindo as orientações abaixo:
+
+date: <data do evento>
+location: <endereço, se for um evento presencial>
+youtube-link: <preencha caso a conferencia seja remota ou se for transmitida>
+inscription-link: <coloque o link apenas no período em que as inscrições estão abertas>
+
 ## Adicionando um novo evento
 
 Essa sessão é dedicada aos eventos secundários realizados ao longo do ano, seja na modalidade presencial ou remota.

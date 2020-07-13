@@ -24,7 +24,7 @@ O site está usando o framework Jekyll, baseado em Ruby, então para iniciar é 
 ## Contribuições
 Antes de enviar as modificações, certifique-se que elas estão funcionando no ambiente local.
 
-Para saber como contribuir acesse [CONTRIBUINDO.md]().
+Para saber como contribuir acesse o [Guia de Contribuições](https://github.com/widsrecife/site-jekyll/blob/master/CONTRIBUTING.md).
 
 
 ## Licença

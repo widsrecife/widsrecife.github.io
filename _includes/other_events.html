@@ -1,0 +1,45 @@
+<section id="schedule" class="section schedule">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="section-title">Outros eventos</h3>
+            </div>
+        </div>
+
+
+        <div class="row">
+            {% for event in site.data.other_events %}
+            <div class="col-md-4 col-sm-4">
+                <a href="{{ event.link }}" target="__blank">
+                    <div class="welcome-section text-center waves-effect">
+
+                        <img src="{{ event.image }}" class="img-responsive" alt="{{ describe.image }}">
+                        <h4> {{ event.title }} </h4>
+
+                        <div class="border"></div>
+
+                        <p>
+                            {% if event.date != "" and event.date != nil %}                            
+                            <i class="ion-ios-calendar"></i> {{ event.date }} <br>
+                            {% endif %}
+
+                            {% if event.time != "" and event.time != nil %} 
+                            <i class="ion-clock"></i> {{ event.time }} <br>
+                            {% endif %}
+
+                            {% if event.location != "" and event.location != nil %} 
+                            <i class="ion-ios-location"></i> {{ event.location }}<br>
+                            {% endif %}
+
+                            {% if event.resume != "" and event.resume != nil %} 
+                            <i class="ion-android-bookmark"></i> {{ event.resume }}
+                            {% endif %}
+                        </p>
+
+                    </div>
+                </a>
+            </div>
+            {% endfor %}            
+        </div>
+    </div>
+</section>

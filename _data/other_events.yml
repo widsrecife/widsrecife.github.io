@@ -1,0 +1,26 @@
+- title: Cerveja com Dados Recife
+  date: 12 mar. 2020
+  time: 19:00 às 22:00
+  location: A Caverna (R. Fernando Lopes, 78 - Graças)
+  resume: Uso de dados no combate à violência contra a mulher
+  image: /assets/images/events/cerveja-com-dados.jpg
+  describe_image: Duas canecas de cerveja no centro da imagem, fundo azul e informações sobre local, data e horário do evento
+  link: https://www.meetup.com/pt-BR/Cerveja-com-Dados/events/269146418/
+
+- title: Open Data Day Recife
+  date: 07 mar. 2020
+  time: 8:30 às 12:00
+  location: ImpactHub Paço Alfândega
+  resume: 
+  image: /assets/images/events/cover-sympla.png
+  describe_image: Título na cor branca em um fundo colorido com formas geométricas
+  link: https://www.sympla.com.br/open-data-day-recife__800192
+
+- title: Série de live codings
+  date: 
+  time: 
+  location: 
+  resume: Nessa playlist tratamos de assuntos iniciais para uma cientista de dados, como Introdução a Pandas e Scikit-learn, Métricas para avaliação de modelos, Viés e variância, Visualização de dados com Seaborn, XGBoost, Pipelines do Scikit-learn, Feature engineering e Stacking.
+  image: /assets/images/events/live-coding.png
+  describe_image: Título na cor preta em um fundo cinza com alguns triângulos verdes
+  link: https://www.youtube.com/playlist?list=PLyZNoKCtDMrZ6RMSZOi8s4-QX1Ab3u4r0

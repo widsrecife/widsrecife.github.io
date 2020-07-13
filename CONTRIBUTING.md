@@ -22,3 +22,18 @@ Seguem instruções para contribuir com o site.
 6. Teste as modificações no seu ambiente local
 
 7. Envie um pull request para o nosso repositório
+
+----
+## Adicionando um novo evento
+
+Essa sessão é dedicada aos eventos secundários realizados ao longo do ano, seja na modalidade presencial ou remota.
+No começo do arquivo "_data/other_events.yml", crie um novo bloco de conteúdo e adicione as informações conforme indicado abaixo:
+
+title: <título do evento>
+date: <data>
+time: <horário>
+location: <local e endereço>
+resume: <resumo>
+image: /assets/images/events/<titulo-arquivo.png>
+describe_image: <descrição da imagem para que ela esteja acessível a pessoas com deficiência visual> 
+link: <link com mais detalhes do evento>

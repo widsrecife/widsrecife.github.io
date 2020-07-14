@@ -27,6 +27,7 @@ Seguem instruções para contribuir com o site.
 ## Modificando o Header
 
 No header estão as informações gerais sobre o evento e o botão de inscrições, caso estejam abertas.
+
 Altere o arquivo "_data/conference _[ano]/header.yml" seguindo as orientações abaixo:
 
 ```
@@ -92,6 +93,19 @@ Nessa sessão devem estar todas as mulheres que participam da programação, sej
   site: <link para site>
 ```
 
+## Adicionando nova empresa em Apoiadoras
+
+Nessa sessão estarão todas as empresas patrocinadoras e apoiadoras do evento. Sugerimos ordená-las por grau de importância/contribuição dada ao evento, sendo a primeira responsável pelo maior aporte.
+
+1. Coloque a logomarca da empresa na pasta "assets/images/conference-[ano]/partners"
+
+2. Modifique o arquivo "_data/conference _[ano]/partners.yml" seguindo as orientações abaixo:
+
+```
+- name: <título da empresa>
+  image: <titulo-arquivo.png>
+  link: <link para site ou rede social da empresa>
+```
 
 ## Adicionando novo evento em Outros Eventos
 

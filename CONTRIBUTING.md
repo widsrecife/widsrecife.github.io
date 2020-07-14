@@ -36,13 +36,13 @@ Altere o arquivo "_data/conference _[ano]/header.yml" seguindo as orientações 
   inscription-link: <coloque o link apenas no período em que as inscrições estão abertas>
 ```
 
-## Modificando o About
+## Modificando o Sobre
 
 Essa é a sessão que fica logo abaixo da imagem principal da página, nela é descrito um breve resumo sobre o "Women in Data Science Recife", considerando as exigências mínimas indicadas no Guia de Uso da Marca.
 
 Altere o arquivo "_includes/conference _[ano]/about.html"
 
-## Modificando o Facts
+## Modificando a Visualização resumida dos dados do evento
 
 Visualização resumida dos dados do evento.
 Altere o arquivo "_data/conference _[ano]/facts.yml" seguindo as orientações abaixo:
@@ -57,7 +57,7 @@ Altere o arquivo "_data/conference _[ano]/facts.yml" seguindo as orientações a
   inscription-link: <link para inscrições>
 ```
 
-## Modificando o Schedule
+## Modificando a Programação
 
 Sessão dedicada a exibição da programação completa do evento.
 
@@ -74,12 +74,13 @@ Sessão dedicada a exibição da programação completa do evento.
 
 3. Caso o evento não seja de 2 dias, sugerimos modificar o tipo da "div" subordinada a "div class=row" no arquivo "_includes/conference _[ano]/schedule.html".
 
-## Adicionando nova palestrante
+## Adicionando nova mulher em Facilitadoras
 
 Nessa sessão devem estar todas as mulheres que participam da programação, seja palestrante, mediadora, facilitadora de oficina.
 
 1. Todas as fotos devem ter a mesma proporção. Proporção sugerida: 1:1
-2. Altere o arquivo "_data/conference _[ano]/speakers.yml" seguindo as orientações abaixo:
+   
+2. No começo do arquivo "_data/conference _[ano]/speakers.yml", crie um novo bloco de conteúdo e adicione as informações conforme indicado abaixo:
 
 ```
 - name: <nome>
@@ -92,7 +93,7 @@ Nessa sessão devem estar todas as mulheres que participam da programação, sej
 ```
 
 
-## Adicionando Novo evento
+## Adicionando novo evento em Outros Eventos
 
 Essa sessão é dedicada aos eventos secundários realizados ao longo do ano, seja na modalidade presencial ou remota.
 No começo do arquivo "_data/other_events.yml", crie um novo bloco de conteúdo e adicione as informações conforme indicado abaixo:
@@ -104,6 +105,6 @@ No começo do arquivo "_data/other_events.yml", crie um novo bloco de conteúdo 
   location: <local e endereço>
   resume: <resumo>
   image: /assets/images/events/<titulo-arquivo.png>
-  describe_image: <descrição da imagem para que ela esteja acessível a pessoas com deficiência visual> 
+  image_description: <descrição da imagem para que ela esteja acessível a pessoas com deficiência visual> 
   link: <link com mais detalhes do evento>
 ```

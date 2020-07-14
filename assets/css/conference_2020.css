@@ -77,13 +77,13 @@ ul li {
   display: inline-block;
   height: 32px;
   width: 32px;
-  color: #008000;
+  color: #ffffff;
 }
 .social-block li a i {
   font-size: 1.5em;
 }
 .social-block li a:hover, .social-block li a:focus {
-  color: #000;
+  color: #008000;
 }
 
 .btn.active.focus,

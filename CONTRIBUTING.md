@@ -73,7 +73,24 @@ Sessão dedicada a exibição da programação completa do evento.
 ```
 
 3. Caso o evento não seja de 2 dias, sugerimos modificar o tipo da "div" subordinada a "div class=row" no arquivo "_includes/conference _[ano]/schedule.html".
-   
+
+## Adicionando nova palestrante
+
+Nessa sessão devem estar todas as mulheres que participam da programação, seja palestrante, mediadora, facilitadora de oficina.
+
+1. Todas as fotos devem ter a mesma proporção. Proporção sugerida: 1:1
+2. Altere o arquivo "_data/conference _[ano]/speakers.yml" seguindo as orientações abaixo:
+
+```
+- name: <nome>
+  image: /assets/images/speakers/<titulo-arquivo.png>
+  image_description: <descrição da imagem para que ela esteja acessível a pessoas com deficiência visual> 
+  linkedin: <usuário linkedin>
+  twitter: <usuária twitter>
+  instagram: <usuária instagram> 
+  site: <link para site>
+```
+
 
 ## Adicionando Novo evento
 

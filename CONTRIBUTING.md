@@ -57,6 +57,24 @@ Altere o arquivo "_data/conference _[ano]/facts.yml" seguindo as orientações a
   inscription-link: <link para inscrições>
 ```
 
+## Modificando o Schedule
+
+Sessão dedicada a exibição da programação completa do evento.
+
+1. Altere as datas de cada tabela no arquivo "_includes/conference _[ano]/schedule.html".
+
+2. Em seguida, modifique o arquivo "_data/conference _[ano]/schedule.yml" seguindo as orientações abaixo:
+
+```
+- day: <dia de evento que a palestra ocorrerá, ex: 1, 2>
+  hour: "<horário de início>"
+  title: <título da palestra>
+  speaker: <nome da palestrante>
+```
+
+3. Caso o evento não seja de 2 dias, sugerimos modificar o tipo da "div" subordinada a "div class=row" no arquivo "_includes/conference _[ano]/schedule.html".
+   
+
 ## Adicionando Novo evento
 
 Essa sessão é dedicada aos eventos secundários realizados ao longo do ano, seja na modalidade presencial ou remota.

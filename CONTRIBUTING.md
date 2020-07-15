@@ -37,6 +37,9 @@ Altere o arquivo "_data/conference _[ano]/header.yml" seguindo as orientações 
   inscription-link: <coloque o link apenas no período em que as inscrições estão abertas>
 ```
 
+Sugerimos que a imagem de background do Header seja referente a última conferência. Para modificá-la, altere a classe "site-header" do arquivo "assets/css/conference_[ano].css".
+
+
 ## Modificando o Sobre
 
 Essa é a sessão que fica logo abaixo da imagem principal da página, nela é descrito um breve resumo sobre o "Women in Data Science Recife", considerando as exigências mínimas indicadas no Guia de Uso da Marca.

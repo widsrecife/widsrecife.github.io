@@ -24,13 +24,27 @@ Seguem instruções para contribuir com o site.
 7. Envie um pull request para o nosso repositório
 
 ----
-## Modificando o Menu
+## SUMÁRIO
+[Modificando o Menu](#navbar)
+[Modificando o Header](#header)
+[Modificando o Sobre](#about)
+[Modificando a Visualização resumida dos dados do evento](#facts)
+[Modificando a Programação](#schedule)
+[Adicionando nova mulher em Facilitadoras](#speakers)
+[Adicionando nova empresa em Apoiadoras](#partners)
+[Modificando a FAQs](#faq)
+[Adicionando novo evento em Outros Eventos](#otherevents)
+[Atualizando os links do Rodapé](#footer)
+
+
+## Modificando o Menu <div id='navbar' />
 
 Essa sessão é dedicada a navegação da página.
 
 Altere o arquivo "_includes/navbar.html"
 
-## Modificando o Header
+
+## Modificando o Header <div id='header' />
 
 No header estão as informações gerais sobre o evento e o botão de inscrições, caso estejam abertas.
 
@@ -46,13 +60,14 @@ Altere o arquivo "_data/conference _[ano]/header.yml" seguindo as orientações 
 Sugerimos que a imagem de background do Header seja referente a última conferência. Para modificá-la, altere a classe "site-header" do arquivo "assets/css/conference_[ano].css".
 
 
-## Modificando o Sobre
+## Modificando o Sobre <div id='about' />
 
 Essa sessão é uma breve descrição sobre o "Women in Data Science Recife", considerando as exigências mínimas indicadas no Guia de Uso da Marca.
 
 Altere o arquivo "_includes/conference _[ano]/about.html"
 
-## Modificando a Visualização resumida dos dados do evento
+
+## Modificando a Visualização resumida dos dados do evento <div id='facts' />
 
 Visualização resumida dos dados do evento.
 
@@ -68,7 +83,8 @@ Altere o arquivo "_data/conference _[ano]/facts.yml" seguindo as orientações a
   inscription-link: <link para inscrições>
 ```
 
-## Modificando a Programação
+
+## Modificando a Programação <div id='schedule' />
 
 Sessão dedicada a exibição da programação completa do evento.
 
@@ -85,7 +101,8 @@ Sessão dedicada a exibição da programação completa do evento.
 
 3. Caso o evento não seja de 2 dias, sugerimos modificar o tipo da "div" subordinada a "div class=row" no arquivo "_includes/conference _[ano]/schedule.html".
 
-## Adicionando nova mulher em Facilitadoras
+
+## Adicionando nova mulher em Facilitadoras <div id='speakers' />
 
 Nessa sessão devem estar todas as mulheres que participam da programação, seja palestrante, mediadora, facilitadora de oficina.
 
@@ -105,7 +122,8 @@ Nessa sessão devem estar todas as mulheres que participam da programação, sej
   site: <link para site>
 ```
 
-## Adicionando nova empresa em Apoiadoras
+
+## Adicionando nova empresa em Apoiadoras <div id='partners' />
 
 Nessa sessão estarão todas as empresas patrocinadoras e apoiadoras do evento. Sugerimos ordená-las por grau de importância/contribuição dada ao evento, sendo a primeira responsável pelo maior aporte.
 
@@ -119,7 +137,8 @@ Nessa sessão estarão todas as empresas patrocinadoras e apoiadoras do evento. 
   link: <link para site ou rede social da empresa>
 ```
 
-## Modificando a FAQs
+
+## Modificando a FAQs <div id='faq' />
 
 Nessa sessão estão todas as dúvidas recorrentes das participantes, com objetivo de ajudar as demais.
 
@@ -131,7 +150,8 @@ Modifique o arquivo "_data/faq.yml" seguindo as orientações abaixo:
   answer: <resposta>
 ```
 
-## Adicionando novo evento em Outros Eventos
+
+## Adicionando novo evento em Outros Eventos <div id='otherevents' />
 
 Essa sessão é dedicada aos eventos secundários realizados ao longo do ano, seja na modalidade presencial ou remota.
 
@@ -150,7 +170,8 @@ Essa sessão é dedicada aos eventos secundários realizados ao longo do ano, se
   link: <link com mais detalhes do evento>
 ```
 
-## Atualizando os links do Rodapé
+
+## Atualizando os links do Rodapé <div id='footer' />
 
 Sessão dedicada aos canais de comunicação e redes sociais do grupo WiDS Recife, além disso apresenta a licença do site.
 

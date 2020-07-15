@@ -9,16 +9,19 @@ Repositório do site do grupo Women in Data Science Recife, que tem como objetiv
 O site está usando o framework Jekyll, baseado em Ruby, então para iniciar é necessário ter Ruby no seu computador. Em seguida, execute:
 
 1. Clone o repositório
-   
-`git clone git@github.com:widsrecife/site-jekyll.git`
+```   
+git clone git@github.com:widsrecife/site-jekyll.git
+```
 
 2. Instale o gem Jekyll
-
-`gem install jekyll`
+```
+gem install jekyll
+```
 
 3. Rode o servidor local
-
-`jekyll serve --watch`
+```
+jekyll serve --watch
+```
 
 
 ## Contribuições

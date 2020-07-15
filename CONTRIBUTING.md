@@ -112,6 +112,18 @@ Nessa sessão estarão todas as empresas patrocinadoras e apoiadoras do evento. 
   link: <link para site ou rede social da empresa>
 ```
 
+## Modificando a FAQs
+
+Nessa sessão estão todas as dúvidas recorrentes das participantes, com objetivo de ajudar as demais.
+
+1. Modifique o arquivo "_data/faq.yml" seguindo as orientações abaixo:
+
+```
+- id: "<id único da pergunta>"
+  question: <pergunta>
+  answer: <resposta>
+```
+
 ## Adicionando novo evento em Outros Eventos
 
 Essa sessão é dedicada aos eventos secundários realizados ao longo do ano, seja na modalidade presencial ou remota.

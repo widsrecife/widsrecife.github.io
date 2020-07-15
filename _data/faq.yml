@@ -1,0 +1,15 @@
+- id: "1"
+  question: O evento é gratuito ?
+  answer: Sim, todos os eventos promovidos pelo WiDS Recife são gratuitos e abertos a todas as pessoas interessadas em Ciência de Dados.
+
+- id: "2"
+  question: Só pode ir mulheres ?
+  answer: Não, os eventos são abertos a todas as pessoas interessadas em Ciência de dados, no entanto a programação da conferência principal é composta apenas por pessoas que se identificam com o gênero feminino.
+
+- id: "3"
+  question: Tem que ser da área ou saber programar ?
+  answer: Os eventos tem diferentes níveis de conhecimento, então sugerimos ler a descrição daquele que você está interessada.
+
+- id: "4"
+  question: Como cancelo minha inscrição ?
+  answer: Se você já se inscriveu em algum evento, mas não poderá ir, nos envia e-mail para <a href="mailto:widsrecife@gmail.com" target="__blank">widsrecife@gmail.com</a> ou manda inbox para um dos nossos perfis nas redes sociais. Assim poderemos repassar sua vaga para outra pessoa.

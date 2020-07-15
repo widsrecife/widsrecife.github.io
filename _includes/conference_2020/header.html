@@ -6,8 +6,14 @@
         <h2>{{ item.date }}
               
             {% if item.youtube-link != "" and item.youtube-link != nil %}
+            
             /
-            <a href="{{ item.youtube-link }}" target="_blank"><img src='assets/images/youtube.png' alt="Icone do youtube" width='90'> </a>
+
+            <figure>
+                <a href="{{ item.youtube-link }}" target="_blank">
+                    <img src='assets/images/youtube.png' alt="Icone do youtube" width='90'>
+                </a>
+            </figure>
             {% endif %}
 
             {% if item.location != "" and item.location != nil %}

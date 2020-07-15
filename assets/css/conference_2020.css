@@ -238,14 +238,14 @@ ul li {
 }
 
 .bg-image-1 {
-  background: url(https://github.com/widsrecife/site-alternative/blob/gh-pages/assets/images/backgrounds/bg-1.png) no-repeat center center/cover;
+  background: url() no-repeat center center/cover;
 }
 .bg-image-1::before {
   background-color: rgba(0, 0, 0, 0.7);
 }
 
 .bg-image-2 {
-  background: url(../images/backgrounds/bg-2.jpg) no-repeat center bottom/cover;
+  background: url() no-repeat center bottom/cover;
 }
 .bg-image-2::before {
   background-color: rgba(0, 0, 0, 0.7);
@@ -256,7 +256,7 @@ ul li {
     padding: 90px 0;
   }
 
-  .section-title {
+  .section-title .section-title-invert {
     color: #313131;
     letter-spacing: 1px;
     margin: 0 0 60px;

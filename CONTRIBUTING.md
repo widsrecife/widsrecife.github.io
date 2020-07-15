@@ -49,6 +49,7 @@ Altere o arquivo "_includes/conference _[ano]/about.html"
 ## Modificando a Visualização resumida dos dados do evento
 
 Visualização resumida dos dados do evento.
+
 Altere o arquivo "_data/conference _[ano]/facts.yml" seguindo as orientações abaixo:
 
 ```
@@ -116,7 +117,7 @@ Nessa sessão estarão todas as empresas patrocinadoras e apoiadoras do evento. 
 
 Nessa sessão estão todas as dúvidas recorrentes das participantes, com objetivo de ajudar as demais.
 
-1. Modifique o arquivo "_data/faq.yml" seguindo as orientações abaixo:
+Modifique o arquivo "_data/faq.yml" seguindo as orientações abaixo:
 
 ```
 - id: "<id único da pergunta>"
@@ -141,4 +142,18 @@ Essa sessão é dedicada aos eventos secundários realizados ao longo do ano, se
   image: <titulo-arquivo.png>
   image_description: <descrição da imagem para que ela esteja acessível a pessoas com deficiência visual> 
   link: <link com mais detalhes do evento>
+```
+
+## Atualizando os links do Rodapé
+
+Sessão dedicada aos canais de comunicação e redes sociais do grupo WiDS Recife, além disso apresenta a licença do site.
+
+Modifique o arquivo "_data/footer.yml" seguindo as orientações abaixo:
+
+```
+- instagram: <usuária instagram>
+  twitter: <usuária twitter>
+  linkedin: <usuária linkedin>
+  github: <usuária github>
+  email: <e-mail de contato>
 ```

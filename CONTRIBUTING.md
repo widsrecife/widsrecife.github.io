@@ -31,16 +31,16 @@ jekyll serve --watch
 
 ----
 ## SUMÁRIO
-[Modificando o Menu](#navbar)
-[Modificando o Header](#header)
-[Modificando o Sobre](#about)
-[Modificando a Visualização resumida dos dados do evento](#facts)
-[Modificando a Programação](#schedule)
-[Adicionando nova mulher em Facilitadoras](#speakers)
-[Adicionando nova empresa em Apoiadoras](#partners)
-[Modificando a FAQs](#faq)
-[Adicionando novo evento em Outros Eventos](#otherevents)
-[Atualizando os links do Rodapé](#footer)
+* [Modificando o Menu](#navbar)
+* [Modificando o Header](#header)
+* [Modificando o Sobre](#about)
+* [Modificando a Visualização resumida dos dados do evento](#facts)
+* [Modificando a Programação](#schedule)
+* [Adicionando nova mulher em Facilitadoras](#speakers)
+* [Adicionando nova empresa em Apoiadoras](#partners)
+* [Modificando a FAQs](#faq)
+* [Adicionando novo evento em Outros Eventos](#otherevents)
+* [Atualizando os links do Rodapé](#footer)
 
 
 ## Modificando o Menu <div id='navbar' />

@@ -494,7 +494,7 @@ ul li {
 
 
 /* 
- * 6.7 Section: Schedule
+ * 6.7 Section: Partner
  */
 
 .partner {
@@ -512,22 +512,6 @@ ul li {
 .partner .partner-box:hover {
   opacity: 1;
 }
-.partner .partner-box-1 {
-  background: url(../images/partner/porto-digital.png) no-repeat center center/contain;
-}
-.partner .partner-box-2 {
-  background: url(../images/partner/minas.png) no-repeat center center/contain;
-}
-.partner .partner-box-3 {
-  background: url(../images/partner/neurolake.png) no-repeat center center/contain;
-}
-.partner .partner-box-4 {
-  background: url(../images/partner/tw.png) no-repeat center center/contain;
-}
-.partner .partner-box-5 {
-  background: url(../images/partner/recrut-ai.png) no-repeat center center/contain;
-}
-
 
 /* 
  * 6.8 Section: FAQ

@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 original_repo: https://github.com/widsrecife/site-jekyll
-title: Women in Data Science Recife
+title: WiDS Recife - Women in Data Science Recife
 email: widsrecife@gmail.com
 attendees_form: 
 description: O WiDS Recife tem como objetivo de dar visibilidade a experiências profissionais e pesquisas de mulheres cientistas de dados locais através de uma conferência gratuita anual, cuja programação é composta apenas por palestrantes que se identificam com o gênero feminino. Tendo sido a 1. edição em 2017. 
@@ -28,7 +28,7 @@ ogimage: "/assets/images/speakers/wids-2color-stacked.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.widsrecife.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: widsrecife
-github_username:  widsrecife
+github_username: widsrecife
 
 sass:
     sass_dir: assets/_scss

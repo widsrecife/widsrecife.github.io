@@ -9,13 +9,19 @@ Seguem instruções para contribuir com o site.
 2. Fork o repositório
    
 3. Crie uma branch para a sua feature que você trabalhará
-`git checkout -b <titulo-da-nova-branch>`
+```
+git checkout -b <titulo-da-nova-branch>
+```
 
 4. Instale a gem Jekyll
-`gem install jekyll`
+```
+gem install jekyll
+```
 
 4. Rode o servidor local
-`jekyll serve --watch`
+```
+jekyll serve --watch
+```
 
 5. Realize as modificações necessárias
    

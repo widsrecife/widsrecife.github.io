@@ -80,12 +80,14 @@ Sessão dedicada a exibição da programação completa do evento.
 Nessa sessão devem estar todas as mulheres que participam da programação, seja palestrante, mediadora, facilitadora de oficina.
 
 1. Todas as fotos devem ter a mesma proporção. Proporção sugerida: 1:1
+
+2. Coloque a foto da facilitadora na pasta "assets/images/conference-[ano]/speakers"
    
-2. No começo do arquivo "_data/conference _[ano]/speakers.yml", crie um novo bloco de conteúdo e adicione as informações conforme indicado abaixo:
+3. No começo do arquivo "_data/conference _[ano]/speakers.yml", crie um novo bloco de conteúdo e adicione as informações conforme indicado abaixo:
 
 ```
 - name: <nome>
-  image: /assets/images/speakers/<titulo-arquivo.png>
+  image: <titulo-arquivo.png>
   image_description: <descrição da imagem para que ela esteja acessível a pessoas com deficiência visual> 
   linkedin: <usuário linkedin>
   twitter: <usuária twitter>
@@ -110,7 +112,10 @@ Nessa sessão estarão todas as empresas patrocinadoras e apoiadoras do evento. 
 ## Adicionando novo evento em Outros Eventos
 
 Essa sessão é dedicada aos eventos secundários realizados ao longo do ano, seja na modalidade presencial ou remota.
-No começo do arquivo "_data/other_events.yml", crie um novo bloco de conteúdo e adicione as informações conforme indicado abaixo:
+
+1. Coloque o cartaz do evento na pasta "assets/images/conference-[ano]/events"
+
+2. No começo do arquivo "_data/other_events.yml", crie um novo bloco de conteúdo e adicione as informações conforme indicado abaixo:
 
 ```
 - title: <título do evento>
@@ -118,7 +123,7 @@ No começo do arquivo "_data/other_events.yml", crie um novo bloco de conteúdo 
   time: <horário>
   location: <local e endereço>
   resume: <resumo>
-  image: /assets/images/events/<titulo-arquivo.png>
+  image: <titulo-arquivo.png>
   image_description: <descrição da imagem para que ela esteja acessível a pessoas com deficiência visual> 
   link: <link com mais detalhes do evento>
 ```

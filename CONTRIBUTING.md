@@ -27,7 +27,7 @@ jekyll serve --watch
    
 6. Teste as modificações no seu ambiente local
 
-7. Envie um pull request para o nosso repositório
+7. Envie um pull request para o nosso repositório e atribua a revisão ao @tech-team
 
 ----
 ## SUMÁRIO

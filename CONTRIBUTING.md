@@ -24,6 +24,12 @@ Seguem instruções para contribuir com o site.
 7. Envie um pull request para o nosso repositório
 
 ----
+## Modificando o Menu
+
+Essa sessão é dedicada a navegação da página.
+
+Altere o arquivo "_includes/navbar.html"
+
 ## Modificando o Header
 
 No header estão as informações gerais sobre o evento e o botão de inscrições, caso estejam abertas.
@@ -42,7 +48,7 @@ Sugerimos que a imagem de background do Header seja referente a última conferê
 
 ## Modificando o Sobre
 
-Essa é a sessão que fica logo abaixo da imagem principal da página, nela é descrito um breve resumo sobre o "Women in Data Science Recife", considerando as exigências mínimas indicadas no Guia de Uso da Marca.
+Essa sessão é uma breve descrição sobre o "Women in Data Science Recife", considerando as exigências mínimas indicadas no Guia de Uso da Marca.
 
 Altere o arquivo "_includes/conference _[ano]/about.html"
 

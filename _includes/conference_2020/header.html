@@ -1,30 +1,38 @@
-<header id="site-header" class="site-header valign-center">
-    <div class="intro">
+<html>
+    <head>
+        <link rel="stylesheet" href="../../assets/css/header_conference_2020.css">
+    </head>
 
-        <h1>Women in Data Science Recife</h1>
-        {% for item in site.data.conference_2020.header %}
-        <h2>{{ item.date }}
-              
-            {% if item.youtube-link != "" and item.youtube-link != nil %}
-            
-            /
+    <body>
+        <header id="site-header" class="site-header valign-center">
+            <div class="intro">
 
-            <figure>
-                <a href="{{ item.youtube-link }}" target="_blank">
-                    <img src='assets/images/youtube.png' alt="Icone do youtube" width='90'>
-                </a>
-            </figure>
-            {% endif %}
+                <h1>Women in Data Science Recife</h1>
+                {% for item in site.data.conference_2020.header %}
+                <h2>{{ item.date }}
+                    
+                    {% if item.youtube-link != "" and item.youtube-link != nil %}
+                    
+                    /
 
-            {% if item.location != "" and item.location != nil %}
-            /
-            {{ item.location }}
-            {% endif %}
-        </h2>
+                    <figure>
+                        <a href="{{ item.youtube-link }}" target="_blank">
+                            <img src='assets/images/youtube.png' alt="Icone do youtube" width='90'>
+                        </a>
+                    </figure>
+                    {% endif %}
 
-        {% if item.inscription-link != "" and item.inscription-link != nil %} 
-        <a class="btn btn-white" data-scroll href="{{ item.inscription-link }}">Pré-inscrição</a>
-        {% endif %}
-        {% endfor %} 
-    </div>
-</header>
+                    {% if item.location != "" and item.location != nil %}
+                    /
+                    {{ item.location }}
+                    {% endif %}
+                </h2>
+
+                {% if item.inscription-link != "" and item.inscription-link != nil %} 
+                <a class="btn btn-white" data-scroll href="{{ item.inscription-link }}">Pré-inscrição</a>
+                {% endif %}
+                {% endfor %} 
+            </div>
+        </header>
+    </body>
+</html>

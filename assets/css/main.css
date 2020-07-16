@@ -404,11 +404,22 @@ ul li {
 /* 
  * 6.1 Section: About 
  */
-.about .section-title {
+.about .code-conduct .section-title {
   margin: 0 0 25px;
   text-align: center;
 }
-.about figure {
+.about .code-conduct figure {
+  margin-bottom: 25px;
+}
+
+/*
+* 6.1 Section: Code conduct 
+ */
+.code-conduct .section-title {
+  margin: 0 0 25px;
+  text-align: center;
+}
+.code-conduct figure {
   margin-bottom: 25px;
 }
 

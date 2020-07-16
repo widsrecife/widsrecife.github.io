@@ -51,6 +51,18 @@ ul li {
   margin-bottom: 10px;
 }
 
+.license p {
+  font-weight: bold;
+}
+
+.license a {
+  color: #ffffff;
+}
+
+.license a:hover {
+  color: #008000;
+}
+
 .custom-list-icon, .list-arrow-right {
   list-style-type: none;
   padding: 0;

@@ -4,7 +4,7 @@
     min-height: 100vh;
     position: relative;
     text-align: center;
-    background: url(../images/conference-2018/header-wids2018.JPG) no-repeat center center/cover;
+    background: url(../images/conference-2018/header-wids2018.jpg) no-repeat center center/cover;
     display: table;
   }
   .site-header::before {

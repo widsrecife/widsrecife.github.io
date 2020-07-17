@@ -122,7 +122,8 @@ Nessa sessão devem estar todas as mulheres que participam da programação, sej
 - name: <nome>
   image: <titulo-arquivo.png>
   image_description: <descrição da imagem para que ela esteja acessível a pessoas com deficiência visual> 
-  linkedin: <usuário linkedin>
+  linkedin: <usuária linkedin>
+  github: <usuária github>
   twitter: <usuária twitter>
   instagram: <usuária instagram> 
   site: <link para site>

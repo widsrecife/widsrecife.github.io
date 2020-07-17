@@ -28,6 +28,10 @@
                         <li><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}" target="_blank" ><i class="ion-social-linkedin-outline"></i></a></li>
                         {% endif %}
 
+                        {% if speaker.github !="" and speaker.github != nil %}
+                        <li><a href="https://github.com/{{ speaker.github }}" target="_blank" ><i class="ion-social-github"></i></a></li>
+                        {% endif %}
+
                         {% if speaker.twitter !="" and speaker.twitter != nil %}
                         <li><a href="https://twitter.com/{{ speaker.twitter }}" target="_blank"><i class="ion-social-twitter"></i></a></li>
                         {% endif %}

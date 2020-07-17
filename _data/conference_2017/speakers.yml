@@ -1,7 +1,7 @@
-- name: Renata Andrade
-  image: renata-andrade.jpg
-  image_description: Mulher sorrindo com olhos castanhos
-  linkedin: renata-andrade-09313730
+- name: Amelia Pessoa
+  image: amelia-pessoa.jpg
+  image_description: 
+  linkedin: amelia-pessoa
   twitter: 
   instagram:  
   site: 
@@ -14,34 +14,18 @@
   instagram:  
   site: 
 
-- name: Juliana Carvalho
-  image: juliana-carvalho.jpg
-  image_description: Mulher morena com cabelos cacheados e laço azul no cabelo
-  linkedin: juligcarvalho
+- name: Renata Andrade
+  image: renata-andrade.jpg
+  image_description: Mulher sorrindo com olhos castanhos
+  linkedin: renata-andrade-09313730
   twitter: 
   instagram:  
   site:  
 
-- name: Carolina Tozzi
-  image: carol-tozzi.jpeg
-  image_description: Mulher branca usando óculos e sorrindo
-  linkedin: carolina-yorio-heinze-tozzi-9b69078a
+- name: Andrêza Leite
+  image: andreza-leite.jpg
+  image_description: Mulher sorridente, cabelo prezo, vestida com bluza azul
+  linkedin: andrezaleite
   twitter: 
   instagram:  
-  site: 
-
-- name: Maíra Araújo
-  image: maira-araujo.jpg
-  image_description: Mulher jovem com cabelos cacheados e sorrindo
-  linkedin: araujomaira
-  twitter: 
-  instagram:  
-  site: 
-
-- name: Keylla Sales
-  image: wids-2color-stacked.jpg
-  image_description: Desenho na cor verde de uma mulher de perfil com cabelos ao vento, fundo na cor branca
-  linkedin: 
-  twitter: 
-  instagram: 
   site: 

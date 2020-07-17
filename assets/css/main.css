@@ -57,6 +57,7 @@ ul li {
 
 .license a {
   color: #ffffff;
+  float: right;
 }
 
 .license a:hover {
@@ -598,9 +599,14 @@ ul li {
   color: #008000;
 }
 
+.site-footer .social-block {
+  float: right;
+}
+
 .footer-img {
   width: 45%;
   margin-bottom: 40px;
+  float: left;
 }
 
 /* PROGRAMAÇÃO TABELA */

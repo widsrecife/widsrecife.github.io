@@ -33,6 +33,7 @@ jekyll serve --watch
 ## SUMÁRIO
 * [Modificando o Menu](#navbar)
 * [Modificando o Header](#header)
+* [Adicionando nova Embaixadora](#ambassadors)
 * [Modificando o Sobre](#about)
 * [Modificando a Visualização resumida dos dados do evento](#facts)
 * [Modificando a Programação](#schedule)
@@ -65,6 +66,28 @@ Altere o arquivo "_data/conference _[ano]/header.yml" seguindo as orientações 
 
 Sugerimos que a imagem de background do Header seja referente a última conferência. Para modificá-la, altere a classe "site-header" do arquivo "assets/css/conference_[ano].css".
 
+## Adicionando nova Embaixadora <div id='ambassadors' />
+
+Nessa sessão devem estar todas as embaixadoras e co-embaixadoras ao longo dos anos.
+
+1. Todas as fotos devem ter a mesma proporção. Proporção sugerida: 1:1
+
+2. Coloque a foto da embaixadora e co-embaixadora na pasta "assets/images/ambassadors"
+   
+3. No começo do arquivo "_data/ambassadors.yml", crie um novo bloco de conteúdo e adicione as informações conforme indicado abaixo:
+
+```
+- year: <ano de embaixadoria>
+  title: <Embaixadora ou Co-embaixadora>
+  name: <nome>
+  image: <titulo-arquivo.png>
+  image_description: <descrição da imagem para que ela esteja acessível a pessoas com deficiência visual> 
+  linkedin: <usuária linkedin>
+  github: <usuária github>
+  twitter: <usuária twitter>
+  instagram: <usuária instagram> 
+  site: <link para site>
+```
 
 ## Modificando o Sobre <div id='about' />
 

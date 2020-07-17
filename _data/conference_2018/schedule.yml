@@ -1,54 +1,59 @@
 - day: 1
   hour: "09:00"
-  title: Recepção e credenciamento
+  title: Boas vindas e coffee
   speaker: "-"
 
 - day: 1
-  hour: "09:30"
-  title: Abertura do evento
-  speaker: Thalita Medeiros
+  hour: "09:40"
+  title: 	Artifical Intelligence - Big Picture
+  speaker: Renata Andrade
 
 - day: 1
-  hour: "10:00"
-  title: Estamos preparadas para lidar com projetos de Data Science?
-  speaker: Luciana Nunes e Danusa Ribeiro
+  hour: "10:40"
+  title: 	Usando Machine Learning para Churn Prediction em Jogos - projeto vencendor do Imagine Cup de 2016 Categoria ML
+  speaker: Déborah Mesquita
 
 - day: 1
-  hour: "10:45"
-  title: Usando dados de forma responsável - o papel da ética e dos direitos humanos na construção de algoritmos
-  speaker: Raquel Saraiva
-
-- day: 1
-  hour: "11:30"
-  title: Intervalo para almoço
+  hour: "11:40"
+  title: 	Intervalo - Almoço
   speaker: "-"
 
 - day: 1
-  hour: "13:15"
-  title: Use MDD e faça as máquinas trabalharem para você
-  speaker: Andrêza Leite
+  hour: "13:00"
+  title: Apresentação Innovation Center
+  speaker: "-"
 
 - day: 1
   hour: "14:00"
-  title: O viés da rejeição de hipótese - um caminho triste, mas feliz
-  speaker: Adriana Höher Dorneles
-
-- day: 1
-  hour: "14:45"
-  title: Reconhecimento de palavras em pt-br
-  speaker: Andressa Cruz Nepomuceno
-
-- day: 1
-  hour: "15:30"
-  title: O que tenho aprendido trabalhando com dados
-  speaker: Alane Pontes
-
-- day: 1
-  hour: "16:15"
-  title: Networking time
+  title: Webcast Stanford
   speaker: "-"
 
 - day: 1
-  hour: "16:45"
-  title: Encerramento
+  hour: "14:10"
+  title: Dados & Design de produto digital - o que está acontecendo?
+  speaker: Juliana Carvalho
+
+- day: 1
+  hour: "15:00"
+  title: Black Mirror - Efeitos colaterais indesejados (ou não) trazidos por novas tecnologias
+  speaker: Carol Tozzi e Maíra Araújo
+
+- day: 1
+  hour: "13:00"
+  title: Apresentação Innovation Center
+  speaker: "-"
+
+- day: 1
+  hour: "15:50"
+  title: Intervalo
+  speaker: "-"
+
+- day: 1
+  hour: "16:05"
+  title: O futuro da educação e a Inteligência Artificial
+  speaker: Keylla Saes
+
+- day: 1
+  hour: "16:50"
+  title: Agradecimento e finalização do evento
   speaker: "-"

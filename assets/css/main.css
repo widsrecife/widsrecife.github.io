@@ -111,6 +111,20 @@ ul li {
   width: 32px;
 }
 
+.img-thumbnail-invert {
+  padding: 4px;
+  line-height: 1.42857143;
+  background-color: #313131;
+  border: 1px solid #313131;
+  border-radius: 4px;
+  -webkit-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+}
+
 .btn.active.focus,
 .btn.active:focus,
 .btn.focus,

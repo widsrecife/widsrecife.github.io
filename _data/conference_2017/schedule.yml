@@ -1,0 +1,59 @@
+- day: 1
+  hour: "09:00"
+  title: Boas vindas e coffee
+  speaker: "-"
+
+- day: 1
+  hour: "09:40"
+  title: 	Artifical Intelligence - Big Picture
+  speaker: Renata Andrade
+
+- day: 1
+  hour: "10:40"
+  title: 	Usando Machine Learning para Churn Prediction em Jogos - projeto vencendor do Imagine Cup de 2016 Categoria ML
+  speaker: Déborah Mesquita
+
+- day: 1
+  hour: "11:40"
+  title: 	Intervalo - Almoço
+  speaker: "-"
+
+- day: 1
+  hour: "13:00"
+  title: Apresentação Innovation Center
+  speaker: "-"
+
+- day: 1
+  hour: "14:00"
+  title: Webcast Stanford
+  speaker: "-"
+
+- day: 1
+  hour: "14:10"
+  title: Dados & Design de produto digital - o que está acontecendo?
+  speaker: Juliana Carvalho
+
+- day: 1
+  hour: "15:00"
+  title: Black Mirror - Efeitos colaterais indesejados (ou não) trazidos por novas tecnologias
+  speaker: Carol Tozzi e Maíra Araújo
+
+- day: 1
+  hour: "13:00"
+  title: Apresentação Innovation Center
+  speaker: "-"
+
+- day: 1
+  hour: "15:50"
+  title: Intervalo
+  speaker: "-"
+
+- day: 1
+  hour: "16:05"
+  title: O futuro da educação e a Inteligência Artificial
+  speaker: Keylla Saes
+
+- day: 1
+  hour: "16:50"
+  title: Agradecimento e finalização do evento
+  speaker: "-"

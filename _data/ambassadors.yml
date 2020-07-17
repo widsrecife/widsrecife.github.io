@@ -1,10 +1,87 @@
 - year: 2020
   title: Embaixadora
+  name: Ana Cecília Vieira
+  image: ana-cecilia.jpg
+  image_description: Mulher sorridente, cabelos cacheados, usando óculos
+  linkedin: cecivieira
+  github: cecivieira
+  twitter: cecivieira
+  instagram:  
+  site: 
+
+- year: 2020
+  title: Co-embaixadora
   name: Déborah Mesquita
   image: deborah-mesquita.jpeg
   image_description: Mulher sorrindo
   linkedin: deborahmesquita
+  github: dmesquita
+  twitter: 
+  instagram:  
+  site: https://deborahmesquita.com/
+
+- year: 2020
+  title: Co-embaixadora
+  name: Maria Fernanda Souza
+  image: maria-fernanda.jpg
+  image_description: Mulher de óculos
+  linkedin: naanadr
+  github: naanadr
+  twitter: 
+  instagram:  
+  site: https://mfsouza.com/
+
+- year: 2020
+  title: Co-embaixadora
+  name: Joyce Sá
+  image: joyce-sa.jpg
+  image_description: Mulher branca com longos cabelos
+  linkedin: joyce-sá-a43868b1
+  github: 
   twitter: 
   instagram:  
   site: 
 
+- year: 2019
+  title: Embaixadora
+  name: Talitha Medeiros
+  image: talitha-medeiros.jpg
+  image_description: Mulher branca com longos cabelos
+  linkedin: talithamedeirosribeiro
+  github: talithamedeiros
+  twitter: 
+  instagram:  
+  site: https://talithamedeiros.github.io/
+
+- year: 2019
+  title: Co-embaixadora
+  name: Déborah Mesquita
+  image: deborah-mesquita.jpeg
+  image_description: Mulher sorrindo
+  linkedin: deborahmesquita
+  github: dmesquita
+  twitter: 
+  instagram:  
+  site: https://deborahmesquita.com/
+
+- year: 2018
+  title: Embaixadora
+  name: Déborah Mesquita
+  image: deborah-mesquita.jpeg
+  image_description: Mulher sorrindo
+  linkedin: deborahmesquita
+  github: dmesquita
+  twitter: 
+  instagram:  
+  site: https://deborahmesquita.com/
+
+- year: 2017
+  title: Embaixadora
+  name: Déborah Mesquita
+  image: deborah-mesquita.jpeg
+  image_description: Mulher sorrindo
+  linkedin: deborahmesquita
+  github: dmesquita
+  twitter: 
+  instagram:  
+  site: https://deborahmesquita.com/

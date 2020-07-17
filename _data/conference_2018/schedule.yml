@@ -1,0 +1,54 @@
+- day: 1
+  hour: "09:00"
+  title: Recepção e credenciamento
+  speaker: "-"
+
+- day: 1
+  hour: "09:30"
+  title: Abertura do evento
+  speaker: Thalita Medeiros
+
+- day: 1
+  hour: "10:00"
+  title: Estamos preparadas para lidar com projetos de Data Science?
+  speaker: Luciana Nunes e Danusa Ribeiro
+
+- day: 1
+  hour: "10:45"
+  title: Usando dados de forma responsável - o papel da ética e dos direitos humanos na construção de algoritmos
+  speaker: Raquel Saraiva
+
+- day: 1
+  hour: "11:30"
+  title: Intervalo para almoço
+  speaker: "-"
+
+- day: 1
+  hour: "13:15"
+  title: Use MDD e faça as máquinas trabalharem para você
+  speaker: Andrêza Leite
+
+- day: 1
+  hour: "14:00"
+  title: O viés da rejeição de hipótese - um caminho triste, mas feliz
+  speaker: Adriana Höher Dorneles
+
+- day: 1
+  hour: "14:45"
+  title: Reconhecimento de palavras em pt-br
+  speaker: Andressa Cruz Nepomuceno
+
+- day: 1
+  hour: "15:30"
+  title: O que tenho aprendido trabalhando com dados
+  speaker: Alane Pontes
+
+- day: 1
+  hour: "16:15"
+  title: Networking time
+  speaker: "-"
+
+- day: 1
+  hour: "16:45"
+  title: Encerramento
+  speaker: "-"

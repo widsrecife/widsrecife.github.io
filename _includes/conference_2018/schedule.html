@@ -1,0 +1,43 @@
+<section id="schedule" class="section schedule">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h3 class="section-title">Programação</h3>
+            </div>
+        </div>        
+        
+        
+        <div class="row">     
+            
+            <div class="col-sm-12">
+                
+                <table id="table" class="table table-hover table-mc-light-blue">
+                    <thead>
+                        <tr>
+                            <th>Horário</th>
+                            <th>Atividade</th>
+                            <th>Facilitadora</th>                             
+                        </tr>
+                    </thead>
+
+                    <tbody> 
+                         
+                        {% assign day1 = site.data.conference_2018.schedule | where:"day","1" %}
+                        {% for event in day1 %}
+                        <tr>
+                            <td data-title="Time">{{ event.hour }}</td>
+                            <td data-title="Title">{{ event.title }}</td>
+                            <td data-title="Speaker">{{ event.speaker }}</td>
+                        </tr>
+                        {% endfor %}
+
+                    </tbody>
+                </table>
+            </div>
+             
+        </div>
+
+    </div>
+
+    
+</section>

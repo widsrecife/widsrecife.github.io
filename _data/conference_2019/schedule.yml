@@ -1,7 +1,7 @@
 - day: 1
   hour: "09:00"
   title: Recepção e credenciamento
-  speaker: 
+  speaker: "-"
 
 - day: 1
   hour: "09:30"
@@ -21,7 +21,7 @@
 - day: 1
   hour: "11:30"
   title: Intervalo para almoço
-  speaker: 
+  speaker: "-"
 
 - day: 1
   hour: "13:15"
@@ -33,22 +33,22 @@
   title: O viés da rejeição de hipótese - um caminho triste, mas feliz
   speaker: Adriana Höher Dorneles
 
-  - day: 1
+- day: 1
   hour: "14:45"
   title: Reconhecimento de palavras em pt-br
   speaker: Andressa Cruz Nepomuceno
 
-  - day: 1
+- day: 1
   hour: "15:30"
   title: O que tenho aprendido trabalhando com dados
   speaker: Alane Pontes
 
-  - day: 1
+- day: 1
   hour: "16:15"
   title: Networking time
-  speaker: 
+  speaker: "-"
 
-  - day: 1
+- day: 1
   hour: "16:45"
   title: Encerramento
-  speaker: 
+  speaker: "-"

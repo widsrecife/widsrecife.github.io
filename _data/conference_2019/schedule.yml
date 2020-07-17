@@ -1,24 +1,54 @@
 - day: 1
-  hour: "19:00"
-  title: Afinal, o que é essa tal de Data Science?
-  speaker: Chaina Santos
+  hour: "09:00"
+  title: Recepção e credenciamento
+  speaker: 
 
 - day: 1
-  hour: "19:30"
-  title: A importância da estatística para a ciência de dados
-  speaker: Renata Kelly Marcelino
+  hour: "09:30"
+  title: Abertura do evento
+  speaker: Thalita Medeiros
 
-- day: 2
-  hour: "16:00"
-  title: Data Visualization - Processos e Boas Práticas
-  speaker: Eva Siqueira
+- day: 1
+  hour: "10:00"
+  title: Estamos preparadas para lidar com projetos de Data Science?
+  speaker: Luciana Nunes e Danusa Ribeiro
 
-- day: 2
-  hour: "16:30"
-  title: Uso de Máquinas de Vetor de Suporte (SVM) para a detecção de transtornos mentais por meio da análise da voz
-  speaker: Caroline Wanderley Espinola
+- day: 1
+  hour: "10:45"
+  title: Usando dados de forma responsável - o papel da ética e dos direitos humanos na construção de algoritmos
+  speaker: Raquel Saraiva
 
-- day: 2
-  hour: "17:00"
-  title: Roda de diálogo anti-racista e feminista na Ciência de Dados
-  speaker: Taísa Silveira, Dandara Sousa, Giulia Falcão
+- day: 1
+  hour: "11:30"
+  title: Intervalo para almoço
+  speaker: 
+
+- day: 1
+  hour: "13:15"
+  title: Use MDD e faça as máquinas trabalharem para você
+  speaker: Andrêza Leite
+
+- day: 1
+  hour: "14:00"
+  title: O viés da rejeição de hipótese - um caminho triste, mas feliz
+  speaker: Adriana Höher Dorneles
+
+  - day: 1
+  hour: "14:45"
+  title: Reconhecimento de palavras em pt-br
+  speaker: Andressa Cruz Nepomuceno
+
+  - day: 1
+  hour: "15:30"
+  title: O que tenho aprendido trabalhando com dados
+  speaker: Alane Pontes
+
+  - day: 1
+  hour: "16:15"
+  title: Networking time
+  speaker: 
+
+  - day: 1
+  hour: "16:45"
+  title: Encerramento
+  speaker: 

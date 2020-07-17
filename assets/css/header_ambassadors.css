@@ -1,0 +1,59 @@
+/* 
+ * 5.0 Site Header
+ */
+ .site-header {
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    position: relative;
+    text-align: center;
+    background: url(../images/ambassadors/header-ambassadors.jpg) no-repeat center center/cover;
+    display: table;
+  }
+  .site-header::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  .site-header .intro {
+    color: #fff;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+    z-index: 1;
+    padding: 0 15px;
+    display: table-cell;
+    vertical-align: middle;
+    height: 100vh;
+  }
+  .site-header .intro h2 {
+    margin-top: 0px;
+    font-size: 25px;
+    font-weight: 300;
+  }
+  .site-header .intro h1 {
+    margin-top: 0px;
+    font-size: 30px;
+  }
+  .site-header .intro p {
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: 300;
+  }
+  
+  @media (min-width: 768px) {
+    .navbar-custom {
+      background-color: transparent;
+      padding-top: 30px;
+    }
+  
+    .site-branding {
+      margin-top: 6px;
+      margin-left: 0;
+    }
+  }

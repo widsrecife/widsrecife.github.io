@@ -1,3 +1,12 @@
+- name: Caroline Espinola
+  image: caroline_espinola.jpg
+  image_description: Mulher branca sorridente vestida com blusa estampada com folhas nas cor verde
+  linkedin: caroline-espinola-16428b179
+  github:
+  twitter: 
+  instagram:  
+  site: 
+
 - name: Chaina Oliveira
   image: chaina_oliveira.jpg
   image_description: Mulher negra com longos cabelos cacheados vestida com blusa amarela com pequenos círculos brancos
@@ -7,28 +16,37 @@
   instagram:  
   site: 
 
-- name: Renata Kelly Marcelino
-  image: 
-  image_description: 
+- name: Dandara Sousa
+  image: dandara_sousa.jpg
+  image_description: Mulher negra sorridente com cabelo cacheado
   linkedin: 
+  github:
+  twitter: dandaramcsousa
+  instagram: d4ndara 
+  site: https://dandaramcsousa.github.io/
+
+- name: Eva Siqueira
+  image: eva_siqueira.jpg
+  image_description: Mulher de pele branca e cabelo catsanho curto, veste blusa florida
+  linkedin: eva-siqueira-b070191a1
   github:
   twitter: 
   instagram:  
   site: 
 
-- name: Jessica Feliciano Coutinho
-  image: 
-  image_description: 
-  linkedin: 
-  github:
+- name: Giulia Falcão
+  image: giulia-falcao.jpg
+  image_description: Mulher jovem branca de cabelo curto sorrindo
+  linkedin: giulia-falcão-718b3a138
+  github: giuliacavalcanti
   twitter: 
-  instagram:  
+  instagram: giuufalcao 
   site:  
 
-- name: Caroline Wanderley Espinola
-  image: caroline_espinola.jpg
-  image_description: Mulher branca sorridente vestida com blusa estampada com folhas nas cor verde
-  linkedin: caroline-espinola-16428b179
+- name: Renata Kelly Marcelino
+  image: renata_santos.jpg
+  image_description: Mulher negra sorridente com cabelo castanho longo, veste óculos e blusa preta
+  linkedin: renata-santos-a10b84149
   github:
   twitter: 
   instagram:  
@@ -42,21 +60,3 @@
   twitter: 
   instagram:  
   site: https://taisasilveira.contently.com/
-
-- name: Dandara Sousa
-  image: dandara_sousa.jpg
-  image_description: Mulher negra sorridente com cabelo cacheado
-  linkedin: 
-  github:
-  twitter: dandaramcsousa
-  instagram: d4ndara 
-  site: https://dandaramcsousa.github.io/
-
-- name: Giulia Falcão
-  image: giulia-falcao.jpg
-  image_description: Mulher jovem branca de cabelo curto sorrindo
-  linkedin: giulia-falcão-718b3a138
-  github: giuliacavalcanti
-  twitter: 
-  instagram: giuufalcao 
-  site:  

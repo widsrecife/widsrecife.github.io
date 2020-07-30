@@ -15,6 +15,10 @@
                     <li><a href="https://www.instagram.com/{{ item.instagram }}" target="_blank"><i class="ion-social-instagram-outline"></i></a></li>
                     {% endif %}
 
+                    {% if item.youtube !="" and item.youtube != nil %}
+                    <li><a href="https://www.youtube.com/channel/{{ item.youtube }}" target="_blank"><i class="ion-social-youtube"></i></a></li>
+                    {% endif %}
+
                     {% if item.twitter !="" and item.twitter != nil %}
                     <li><a href="https://twitter.com/{{ item.twitter }}" target="_blank"><i class="ion-social-twitter"></i></a></li>
                     {% endif %}

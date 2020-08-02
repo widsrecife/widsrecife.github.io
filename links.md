@@ -1,5 +1,5 @@
 ---
 layout: links
 title: Links
-permalink: /links_instagram/
+permalink: /links_instagram
 ---

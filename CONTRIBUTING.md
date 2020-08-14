@@ -42,6 +42,7 @@ jekyll serve --watch
 * [Modificando a FAQs](#faq)
 * [Adicionando novo evento em Outros Eventos](#otherevents)
 * [Atualizando os links do Rodapé](#footer)
+* [Atualizando a árvore de links](#linktree)
 
 
 ## Modificando o Menu <div id='navbar' />
@@ -213,4 +214,15 @@ Modifique o arquivo "_data/footer.yml" seguindo as orientações abaixo:
   linkedin: <usuária linkedin>
   github: <usuária github>
   email: <e-mail de contato>
+```
+
+## Atualizando árvore de links <div id='linktree' />
+
+Página dedicada a reunir links das diversas redes sociais e canais de comunicação do WiDS Recife. Geralmente usada nas redes sociais para facilitar acesso das usuárias.
+
+Modifique o arquivo [links_instagram.yml](_data/links_instagram.yml) seguindo orientações abaixo:
+
+```
+- titulo: <título que aparecerá no botão>
+  url: <link para redirecionamento>
 ```

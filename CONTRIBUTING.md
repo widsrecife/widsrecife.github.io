@@ -220,7 +220,7 @@ Modifique o arquivo "_data/footer.yml" seguindo as orientações abaixo:
 
 Página dedicada a reunir links das diversas redes sociais e canais de comunicação do WiDS Recife. Geralmente usada nas redes sociais para facilitar acesso das usuárias.
 
-Modifique o arquivo [links_instagram.yml](_data/links_instagram.yml) seguindo orientações abaixo:
+Modifique o arquivo "_data/links_instagram.yml" seguindo orientações abaixo:
 
 ```
 - titulo: <título que aparecerá no botão>

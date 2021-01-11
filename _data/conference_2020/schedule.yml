@@ -1,24 +1,29 @@
 - day: 1
   hour: "19:00"
   title: Afinal, o que é essa tal de Data Science?
+  youtube: https://youtu.be/pfujJCGRf1I
   speaker: Chaina Oliveira
 
 - day: 1
   hour: "19:30"
   title: A importância da estatística para a ciência de dados
+  youtube: https://youtu.be/NyZfGk9hCVQ
   speaker: Renata Kelly Marcelino
 
 - day: 2
   hour: "16:00"
   title: Data Visualization - Processos e Boas Práticas
+  youtube: https://youtu.be/vCv5k2nol0U
   speaker: Eva Siqueira
 
 - day: 2
   hour: "16:30"
   title: Uso de modelos computacionais para a detecção de transtornos mentais por meio da análise acústica da voz
+  youtube: https://youtu.be/0FrMEHIV1fQ
   speaker: Caroline Wanderley Espinola
 
 - day: 2
   hour: "17:00"
-  title: Roda de diálogo anti-racista e feminista na Ciência de Dados (atividade aberta para o público*)
-  speaker: Dandara Sousa, Giulia Falcão
+  title: Roda de diálogo anti-racista e feminista na Ciência de Dados (atividade aberta para participação do público*)
+  youtube: https://youtu.be/aKW_sk7Kojk?t=5342
+  speaker: Dandara Sousa, Giulia Falcão e Taísa Silveira

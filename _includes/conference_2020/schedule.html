@@ -27,7 +27,7 @@
                         {% for event in day1 %}
                         <tr>
                             <td data-title="Time">{{ event.hour }}</td>
-                            <td data-title="Title">{{ event.title }}</td>
+                            <td data-title="Title">{{ event.title }} <a href="{{ event.youtube }}" target="_blank"><i class="ion-social-youtube"></i></a></td>
                             <td data-title="Speaker">{{ event.speaker }}</td>
                         </tr>
                         {% endfor %}
@@ -52,7 +52,11 @@
                         {% for event in day2 %}
                         <tr>
                             <td data-title="Time">{{ event.hour }}</td>
-                            <td data-title="Title">{{ event.title }}</td>
+                            <td data-title="Title">{{ event.title }} 
+                                {% if event.youtube !="" and event.youtube != nil %}
+                                <a href="{{ event.youtube }}" target="_blank"><i class="ion-social-youtube"></i></a>
+                                {% endif %}
+                            </td>
                             <td data-title="Speaker">{{ event.speaker }}</td>
                         </tr>
                         {% endfor %}

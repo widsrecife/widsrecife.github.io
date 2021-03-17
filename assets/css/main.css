@@ -1360,6 +1360,8 @@ body {
     padding-bottom: 40px;
     box-shadow: 0 0 3px #ccc;
     padding: 30px;
+    margin: 25px 0 0;
+    height: 441px;
 }
 
 .welcome-section img {

@@ -1,13 +1,31 @@
+- title: Open Data Day Recife 2021
+  date: 20 mar. 2021
+  time: 14:00 às 16:00
+  location: 
+  resume: O evento trás como tema transparência de dados e informação e atividade prática de análise exploratória com dados abertos.
+  image: odd-2021.png
+  image_description: Título na cor branca em um fundo colorido com formas geométricas
+  link: https://youtu.be/cXRf6jrLvrg
+
+- title: Datathon WiDS 2021 - Live coding
+  date: 23 fev. 2021
+  time: 
+  location: 
+  resume: Foi apresentada uma solução possível para o desafio de desenvolver um modelo que consiga diagnosticar um tipo específico de diabetes analisando os dados das primeiros 24h de internação de uma paciente na UTI.
+  image: dathathon-2021.png
+  image_description: Fundo cinza escuro com letras claras
+  link: https://youtu.be/KWKfzEU_Nbs
+
 - title: Cerveja com Dados Recife
   date: 12 mar. 2020
   time: 19:00 às 22:00
   location: A Caverna (R. Fernando Lopes, 78 - Graças)
-  resume: Uso de dados no combate à violência contra a mulher
+  resume: Uso de dados no combate à violência contra a mulher.
   image: cerveja-com-dados.jpg
   image_description: Duas canecas de cerveja no centro da imagem, fundo azul e informações sobre local, data e horário do evento
   link: https://www.meetup.com/pt-BR/Cerveja-com-Dados/events/269146418/
 
-- title: Open Data Day Recife
+- title: Open Data Day Recife 2020
   date: 07 mar. 2020
   time: 8:30 às 12:00
   location: ImpactHub Paço Alfândega
@@ -20,7 +38,7 @@
   date: 
   time: 
   location: 
-  resume: Nessa playlist tratamos de assuntos iniciais para uma cientista de dados, como Introdução a Pandas e Scikit-learn, Métricas para avaliação de modelos, Viés e variância, Visualização de dados com Seaborn, XGBoost, Pipelines do Scikit-learn, Feature engineering e Stacking.
+  resume: Nessa playlist tratamos de assuntos iniciais para uma cientista de dados, como Pandas e Scikit-learn, Métricas para avaliação de modelos, Viés e variância, Seaborn, XGBoost, Pipelines do Scikit-learn, Feature engineering e Stacking.
   image: live-coding.png
   image_description: Título na cor preta em um fundo cinza com alguns triângulos verdes
   link: https://www.youtube.com/playlist?list=PLyZNoKCtDMrZ6RMSZOi8s4-QX1Ab3u4r0

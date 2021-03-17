@@ -1,4 +1,63 @@
-<section id="ambassadors" class="section bg-image-1 speakers">
+<section id="ambassadors" class="section speakers">
+    <div class="container">
+        
+        <div class="row">
+            
+            <div class="col-md-12">
+
+                <h3 class="section-title">2021</h3>
+
+            </div>
+
+            {% assign year2021 = site.data.ambassadors | where:"year","2021" %}
+            {% for ambassador in year2021 %}
+
+            {% if ambassador.image != "" and ambassador.image != nil %}
+            <div class="col-md-4">
+
+                <div class="speaker">
+                    
+                    <figure>
+                        <img alt="{{ ambassador.image_description }}" class="img-thumbnail-invert center-block" src="../../assets/images/ambassadors/{{ ambassador.image }}">
+                    </figure>
+
+                    <h4>{{ ambassador.name }}</h4>
+                    <h4>{{ ambassador.title }}</h4>
+
+                    <ul class="social-block-invert">
+                        {% if ambassador.linkedin != "" and ambassador.linkedin != nil %}
+                        <li><a href="https://www.linkedin.com/in/{{ ambassador.linkedin }}" target="_blank" ><i class="ion-social-linkedin-outline"></i></a></li>
+                        {% endif %}
+
+                        {% if ambassador.github !="" and ambassador.github != nil %}
+                        <li><a href="https://github.com/{{ ambassador.github }}" target="_blank" ><i class="ion-social-github"></i></a></li>
+                        {% endif %}
+
+                        {% if ambassador.twitter !="" and ambassador.twitter != nil %}
+                        <li><a href="https://twitter.com/{{ ambassador.twitter }}" target="_blank"><i class="ion-social-twitter"></i></a></li>
+                        {% endif %}
+
+                        {% if ambassador.instagram !="" and ambassador.instagram != nil %}
+                        <li><a href="https://www.instagram.com/{{ ambassador.instagram }}" target="_blank"><i class="ion-social-instagram-outline"></i></a></li>
+                        {% endif %}
+                        
+                        {% if ambassador.site !="" and ambassador.site != nil %}
+                        <li><a href="{{ ambassador.site }}" target="_blank"><i class="ion-android-globe"></i></a></li>                  
+                        {% endif %}
+                        
+                    </ul>                   
+
+                </div>
+            </div>
+
+            {% endif %}
+            {% endfor %}
+
+        </div>
+    </div>
+</section>
+
+<section class="section bg-image-1 speakers">
     <div class="container">
         
         <div class="row">

@@ -1,0 +1,11 @@
+- day: 1
+  hour: "19:00"
+  title: Afinal, o que é essa tal de Data Science?
+  youtube: https://youtu.be/pfujJCGRf1I
+  speaker: Chaina Oliveira
+
+- day: 2
+  hour: "16:00"
+  title: Data Visualization - Processos e Boas Práticas
+  youtube: https://youtu.be/vCv5k2nol0U
+  speaker: Eva Siqueira

@@ -1,22 +1,42 @@
 - id: "1"
-  question: O evento é gratuito ?
+  question: O evento é gratuito?
   answer: Sim, todos os eventos promovidos pelo WiDS Recife são gratuitos e abertos a todas as pessoas interessadas em Ciência de Dados.
 
 - id: "2"
-  question: O evento é apenas para pessoas que se identificam como mulher ?
+  question: O evento é apenas para pessoas que se identificam como mulher?
   answer: Não, os eventos são abertos a todas as pessoas interessadas em Ciência de dados, no entanto a programação da conferência principal é composta apenas por pessoas que se identificam com o gênero feminino.
 
 - id: "3"
-  question: Tem que ser da área ou saber programar ?
+  question: Tem que ser da área ou saber programar?
   answer: Os eventos tem diferentes níveis de conhecimento, então sugerimos ler a descrição daquele que você está interessada.
 
 - id: "4"
-  question: Como será a roda de diálogo ?
+  question: Como será a roda de diálogo?
   answer: A conversa iniciará com as três mulheres citadas na programação e outras pessoas que se identificam com o gênero feminino poderá participar da conversa.
 
 - id: "5"
-  question: Quero participar da roda de diálogo, como faço ?
+  question: Quero participar da roda de diálogo, como faço?
   answer: Durante o evento, informe o seu interesse no chat do Youtube. Te enviaremos o link de acesso.
+
+- id: "6"
+  question: Como faço para assistir aos eventos anterioes?
+  answer: Os eventos que aconteceram de forma online estão disponíveis no nosso canal no <a href="https://www.youtube.com/channel/UCA7tblpOhxRtgYZYDR33kBg" target="_blank">Youtube</a>.
+  
+- id: "7"
+  question: Como faço para realizar um evento em conjunto com o WiDS?
+  answer: Você pode nos contactar através do email <a href="mailto:widsrecife@gmail.com" target="_blank">widsrecife@gmail.com</a>.
+  
+- id: "8"
+  question: Como faço para participar da comunidade WiDS Recife no Telegram? 
+  answer: É um grupo exclusivo para mulheres e você pode participar dele clicando <a href="https://t.me/joinchat/Ry2KHwSahamBCkhV" target="_blank">aqui</a>. 
+  
+- id: "9"
+  question: Como me inscrevo para ser uma Embaixadora no WiDS? 
+  answer: As inscrições acontecem anualmente na página do WiDS global, você pode ter mais informações <a href="https://www.widsconference.org/ambassador-signup.html" target="_blank">aqui</a>. Antes de submeter, verifique se não há um capítulo regional na sua cidade.
+
+- id: "10"
+  question: Como me inscrevo para ser uma Embaixadora no capítudo regional do WiDS Recife? 
+  answer: Você pode entrar em contato com as embaixadoras atuais através das redes sociais, do nosso email ou do canal do Telegram.
 
 # - id: "4"
 #   question: Como cancelo minha inscrição ?

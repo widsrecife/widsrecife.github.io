@@ -1,11 +1,67 @@
 - day: 1
-  hour: "19:00"
-  title: Afinal, o que é essa tal de Data Science?
-  youtube: https://youtu.be/pfujJCGRf1I
-  speaker: Chaina Oliveira
+  hour: "10:00"
+  type: Oficina
+  title: Desbravando dados geográficos no Python com GeoPandas e Folium
+  youtube: ""
+  speaker: Alice Adativa
 
-- day: 2
-  hour: "16:00"
-  title: Data Visualization - Processos e Boas Práticas
-  youtube: https://youtu.be/vCv5k2nol0U
-  speaker: Eva Siqueira
+- day: 1
+  hour: "15:00"
+  title: Abertura do evento
+  type: ""
+  youtube: https://www.youtube.com/channel/UCA7tblpOhxRtgYZYDR33kBg
+  speaker: Embaixadoras WiDS Recife 2021
+
+- day: 1
+  hour: "15:10"
+  type: Mini Palestra
+  title: A ciência de dados e a importância de abrir a geladeira para pensar
+  youtube: https://www.youtube.com/channel/UCA7tblpOhxRtgYZYDR33kBg
+  speaker: Erika Cristina da Silva
+
+- day: 1
+  hour: "15:30"
+  type: ""
+  title: Intervalo
+  speaker: ""
+
+- day: 1
+  hour: "15:33"
+  type: Palestra
+  title: Fala pra Geral - Como os dados podem mudar a realidade local
+  youtube: https://www.youtube.com/channel/UCA7tblpOhxRtgYZYDR33kBg
+  speaker: Anicely Santos
+
+- day: 1
+  hour: "16:15"
+  type: Mini Palestra
+  title: Manipulação de dados e previsão com topologia algébrica
+  youtube: https://www.youtube.com/channel/UCA7tblpOhxRtgYZYDR33kBg
+  speaker: Élida Karine De Lira Ferreira
+
+- day: 1
+  hour: "16:35"
+  type: ""
+  title: Intervalo
+  speaker: ""
+
+- day: 1
+  hour: "16:38"
+  type: Palestra
+  title: Descomplicando a Regressão linear!
+  youtube: https://www.youtube.com/channel/UCA7tblpOhxRtgYZYDR33kBg
+  speaker: Laura Damaceno de Almeida
+
+- day: 1
+  hour: "17:20"
+  type: Mini Palestra
+  title: Descobrindo Exoplanetas usando Redes Neurais
+  youtube: https://www.youtube.com/channel/UCA7tblpOhxRtgYZYDR33kBg
+  speaker: Blenda Guedes
+
+- day: 1
+  hour: "17:35"
+  type: ""
+  title: Encerramento
+  youtube: https://www.youtube.com/channel/UCA7tblpOhxRtgYZYDR33kBg
+  speaker: Embaixadoras WiDS Recife 2021

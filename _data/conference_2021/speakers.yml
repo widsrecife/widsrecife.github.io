@@ -1,8 +1,53 @@
-- name: Caroline Espinola
-  image: caroline_espinola.jpg
-  image_description: Mulher branca sorridente vestida com blusa estampada com folhas nas cor verde
-  linkedin: caroline-espinola-16428b179
+- name: Alice Adativa
+  image: alice.jpeg
+  image_description: Mulher branca sorridente utilizando óculos preto e caso preto, no fundo tem um monitor de computador.
+  linkedin: alice-adativa
   github:
-  twitter: 
-  instagram:  
-  site: 
+  twitter:
+  instagram:
+  site:
+
+- name: Erika Cristina da Silva
+  image: erika.jpeg
+  image_description: Mulher branca sorridente de cabelos longos e lisos, vestindo camisa branca.
+  linkedin: erika-cristina-da-silva-b2b76179
+  github:
+  twitter:
+  instagram:
+  site:
+
+- name: Anicely Santos
+  image: anicely.jpeg
+  image_description: Mulher negra sorridente utilizando turbante vermelho, óculos redondo preto e camisa vermelha.
+  linkedin: anicelysantos
+  github:
+  twitter: shuri_any
+  instagram: anicelysantos
+  site:
+
+- name: Élida Karine De Lira Ferreira
+  image: wids-2color-stacked.jpg
+  image_description: Logo do WiDS Recife, palestrante sem foto.
+  linkedin:
+  github:
+  twitter:
+  instagram:
+  site:
+
+- name: Laura Damaceno de Almeida
+  image: laura.jpeg
+  image_description: Mulher negra de cabelos lisos e curtos, utilizando moletom branco.
+  linkedin: laura-damaceno
+  github:
+  twitter:
+  instagram: laura_damaceno_almeida
+  site: https://linktr.ee/lau_damaceno
+
+- name: Blenda Guedes
+  image: wids-2color-stacked.jpg
+  image_description: Logo do WiDS Recife, palestrante sem foto.
+  linkedin:
+  github:
+  twitter:
+  instagram:
+  site:

@@ -26,13 +26,13 @@
   site:
 
 - name: Élida Karine De Lira Ferreira
-  image: wids-2color-stacked.jpg
-  image_description: Logo do WiDS Recife, palestrante sem foto.
-  linkedin:
+  image: elida.jpeg
+  image_description: Mulher negra de cabelo liso castanho.
+  linkedin: élida-karine-9701b916b
   github:
   twitter:
   instagram:
-  site:
+  site: http://lattes.cnpq.br/3210413229733783
 
 - name: Laura Damaceno de Almeida
   image: laura.jpeg
@@ -44,10 +44,10 @@
   site: https://linktr.ee/lau_damaceno
 
 - name: Blenda Guedes
-  image: wids-2color-stacked.jpg
-  image_description: Logo do WiDS Recife, palestrante sem foto.
-  linkedin:
+  image: blenda.jpeg
+  image_description: Mulher branca, de cabelo liso castanho e rosa, vestindo jaqueta jeans e camisa branca.
+  linkedin: blendaguedes
   github:
   twitter:
-  instagram:
+  instagram: blendaguedes
   site:

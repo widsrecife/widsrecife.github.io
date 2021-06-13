@@ -1,3 +1,7 @@
 - name: Twilio
   image: twilio.png
   link: https://www.twilio.com/
+
+- name: PyLadies Recife
+  image: pyladies_recife.png
+  link: https://linktr.ee/pyladiesrecife

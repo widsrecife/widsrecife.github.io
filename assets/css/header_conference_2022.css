@@ -4,15 +4,7 @@
     min-height: 100vh;
     position: relative;
     text-align: center;
-    /* background-image: url(/assets/images/recife.jpg); */
-    background-image:
-      linear-gradient(#c3c3c3, #c3c3c3),
-      url(/assets/images/recife.jpg);
-    background-size: cover;
-    background-blend-mode: saturation;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    background: url(../images/conference-2022/header-wids2022.png) no-repeat center center/cover;
     display: table;
   }
   .site-header::before {
@@ -22,9 +14,8 @@
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: rgba(0, 177, 6, .7);
+    background-color: rgba(0, 0, 0, 0.5);
   }
-
   .site-header .intro {
     color: #fff;
     position: relative;

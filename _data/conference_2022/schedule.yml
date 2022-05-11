@@ -1,0 +1,54 @@
+- day: 1
+  hour: "09:30"
+  title: Abertura do evento
+  type: ""
+  youtube: https://www.youtube.com/channel/UCA7tblpOhxRtgYZYDR33kBg
+  speaker: Embaixadoras WiDS Recife 2022
+
+- day: 1
+  hour: "09:40"
+  type: Oficina
+  title: AutoML:Conceitos básicos e suas aplicações
+  youtube: https://www.youtube.com/channel/UCA7tblpOhxRtgYZYDR33kBg
+  speaker: Cynthia Moreira Maia
+
+- day: 1
+  hour: "14:05"
+  type: Palestra
+  title: Data Literacy (Fluência em Dados) e competências analíticas
+  youtube: https://www.youtube.com/channel/UCA7tblpOhxRtgYZYDR33kBg
+  speaker: Virginia de Melo Cunha Heimann
+
+- day: 1
+  hour: "14:35"
+  type: Palestra
+  title: Crie aplicações de uma forma rápida e fácil utilizando o Streamlit
+  youtube: https://www.youtube.com/channel/UCA7tblpOhxRtgYZYDR33kBg
+  speaker: Fernanda Santos
+
+- day: 1
+  hour: "15:10"
+  type: Mini Palestra
+  title: Importância da Ciência de Dados para pesquisa do Nexo água-energia-alimento
+  youtube: https://www.youtube.com/channel/UCA7tblpOhxRtgYZYDR33kBg
+  speaker: Shevine Silva Oliveira Risso
+
+- day: 1
+  hour: "15:25"
+  type: Palestra
+  title: Data Science em Saúde:Modelos que salvam vidas
+  youtube: https://www.youtube.com/channel/UCA7tblpOhxRtgYZYDR33kBg
+  speaker: Julia Hornick 
+
+- day: 1
+  hour: "16:00"
+  type: Roda de Conversa
+  title: Dia a dia no Mercado de Trabalho em Ciência de Dados
+  youtube: https://www.youtube.com/channel/UCA7tblpOhxRtgYZYDR33kBg
+  speaker: Bruna Costa, Fernanda Souza, Joyce Sá, Virginia Heimann
+- day: 1
+  hour: "16:30"
+  type: ""
+  title: Encerramento
+  youtube: https://www.youtube.com/channel/UCA7tblpOhxRtgYZYDR33kBg
+  speaker: Embaixadoras WiDS Recife 2022

@@ -1,0 +1,71 @@
+- name: Bruna Costa
+  image: bruna.jpg
+  image_description: Mulher parda, de cabelo liso, longo e castanho, vestindo blusa com estampa animal print.
+  linkedin: bruna-costa-432370139
+  github:
+  twitter:
+  instagram: bruna.cpc
+  site:
+
+- name: Cynthia Moreira Maia
+  image: cynthia.jpg
+  image_description: Mulher parda sorridente de cabelos longos e lisos, utilizando aparelho nos dentes.
+  linkedin: cynthia-moreira-ba51461b3
+  github:
+  twitter:
+  instagram: cynthiamoreira
+  site:
+
+- name: Fernanda Santos
+  image: fernanda.jpeg
+  image_description: Mulher branca sorridente, vestindo blazer e camisa cinza escura.
+  linkedin: ftspublicidade
+  github: Ftsnba
+  twitter:
+  instagram: ftspublicidade
+  site:
+
+- name: Joyce Sá
+  image: 
+  image_description: Mulher branca, de cabelo liso castanho.
+  linkedin: joyce-s%C3%A1-a43868b1
+  github:
+  twitter:
+  instagram: 
+  site:
+
+- name: Julia Hornick
+  image: julia.png
+  image_description: Mulher branca, com cabelos lisos e ruivos, vestida com uma blusa cinza.
+  linkedin: juliahornick
+  github:
+  twitter: 
+  instagram: 
+  site:
+
+- name: Maria Fernanda Souza
+  image: mariafernanda.jpg
+  image_description: Mulher parda, de dreadlocks cinzas, utilizando óculos preto, no fundo tem dois quadros.
+  linkedin: naanadr
+  github: naanadr
+  twitter: Naanadr
+  instagram: 
+  site: https://mfsouza.com/
+
+- name: Shevine Oliveira
+  image: shevine.jpg
+  image_description: Mulher parda sorridente, de cabelo liso castanho.
+  linkedin: shevine-oliveira-risso
+  github:
+  twitter:
+  instagram:
+  site: http://lattes.cnpq.br/3210413229733783
+
+- name: Virgínia Heimann
+  image: virginia.jpg
+  image_description: Mulher branca sorridente, de cabelos lisos e castanhos, com um cordão dourado, utilizando blusa preta.
+  linkedin: virginia-heimann-b110222a
+  github:
+  twitter:
+  instagram: 
+  site: 

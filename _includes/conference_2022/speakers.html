@@ -1,0 +1,56 @@
+<section id="speakers" class="section bg-image-1 speakers">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+
+                <h3 class="section-title-invert">Facilitadoras</h3>
+
+            </div>
+        </div>
+
+        <div class="row">
+
+            {% for speaker in site.data.conference_2022.speakers %}
+
+            {% if speaker.image !="" and speaker.image != nil %}
+            <div class="col-md-4">
+
+                <div class="speaker-invert">
+                    
+                    <figure>
+                        <img alt="{{ speaker.image_description }}" class="img-thumbnail center-block" src="../../assets/images/conference-2022/speakers/{{ speaker.image }}">
+                    </figure>
+
+                    <h4>{{ speaker.name }}</h4>
+
+                    <ul class="social-block">
+                        {% if speaker.linkedin !="" and speaker.linkedin != nil %}
+                        <li><a href="https://www.linkedin.com/in/{{ speaker.linkedin }}" target="_blank" ><i class="ion-social-linkedin-outline"></i></a></li>
+                        {% endif %}
+
+                        {% if speaker.github !="" and speaker.github != nil %}
+                        <li><a href="https://github.com/{{ speaker.github }}" target="_blank" ><i class="ion-social-github"></i></a></li>
+                        {% endif %}
+
+                        {% if speaker.twitter !="" and speaker.twitter != nil %}
+                        <li><a href="https://twitter.com/{{ speaker.twitter }}" target="_blank"><i class="ion-social-twitter"></i></a></li>
+                        {% endif %}
+
+                        {% if speaker.instagram !="" and speaker.instagram != nil %}
+                        <li><a href="https://www.instagram.com/{{ speaker.instagram }}" target="_blank"><i class="ion-social-instagram-outline"></i></a></li>
+                        {% endif %}
+                        
+                        {% if speaker.site !="" and speaker.site != nil %}
+                        <li><a href="{{ speaker.site }}" target="_blank"><i class="ion-android-globe"></i></a></li>                  
+                        {% endif %}
+                        
+                    </ul>                   
+
+                </div>
+            </div>         
+
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</section>
